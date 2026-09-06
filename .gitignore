@@ -1,0 +1,15 @@
+# Local secrets and environment settings
+.env
+backend/.env
+
+# Local development database
+*.db
+
+# Python cache and test output
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Frontend build output
+frontend/dist/
+frontend/node_modules/
